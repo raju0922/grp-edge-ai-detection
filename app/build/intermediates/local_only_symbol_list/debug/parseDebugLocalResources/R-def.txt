@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_mic
+drawable status_bg
+id objectsText
+id overlayView
+id previewView
+id riskText
+id startButton
+id statusText
+id voiceButton
+layout activity_main
+string app_name
+style Theme.EdgeGuard

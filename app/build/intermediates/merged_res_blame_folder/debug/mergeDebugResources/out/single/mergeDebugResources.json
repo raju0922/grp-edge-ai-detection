@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\nambi\\.gradle\\daemon\\9.3.0\\com.edgeguard.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nambi\\.gradle\\daemon\\9.3.0\\com.edgeguard.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nambi\\.gradle\\daemon\\9.3.0\\com.edgeguard.app-debug-41:\\drawable_status_bg.xml.flat",
+        "source": "C:\\Users\\nambi\\.gradle\\daemon\\9.3.0\\com.edgeguard.app-main-43:\\drawable\\status_bg.xml"
+    },
+    {
+        "merged": "com.edgeguard.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.edgeguard.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.edgeguard.app-debug-41:/drawable_ic_mic.xml.flat",
+        "source": "com.edgeguard.app-main-43:/drawable/ic_mic.xml"
+    }
+]
