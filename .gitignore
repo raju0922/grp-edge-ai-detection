@@ -5,33 +5,54 @@ out/
 build/
 .gradle/
 .navigation/
-externalNativeBuild/
-.cxx/
+captures/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+*.hprof
 
 # Android Studio / IntelliJ files
 .idea/
 *.iml
 *.iws
 *.ipr
-capture.png
-captures/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/navEditor.xml
+.idea/deploymentTargetDropDown.xml
+.idea/render_cache.xml
+.gradle/9.3.0
 
-# Local configuration
+# Local configuration (STRICTLY SHOULD NOT BE COMMITTED)
 local.properties
+.DS_Store
+Thumbs.db
 
 # Log files
 *.log
 
-# OS files
-.DS_Store
-Thumbs.db
+# NDK / C++
+.externalNativeBuild/
+.cxx/
+externalNativeBuild/
 
-# Secrets
+# Secrets & Keys
 google-services.json
-jks/
-keystore/
 *.jks
 *.keystore
+*.p12
+*.pem
+signing.properties
 
 # Kotlin
 *.kotlin_module
+
+# Other
+.temp/
+.cache/
